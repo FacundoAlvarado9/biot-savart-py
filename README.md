@@ -6,4 +6,6 @@ Humble **implementation of the Biot-Savart's equation for solving the magnetic f
 
 Code from [Mr. P. Solver's Youtube video](https://youtu.be/srk2YZKMn-E) was used as a starting point, so credits to him. Some changes were introduced like the possibility of working with more than one current simultaneously and being able to define these currents just once in the code.
 
+In this repo you can find the implementation for a *Helmholtz coil*, which represents two circular cables close to each other which transport the same current in the same direction.
+
 Be aware that our group was formed by Soft. Eng. students, with a very limited Physics background (that is, you may find mistakes or inconsistencies).
